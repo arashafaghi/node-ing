@@ -24,3 +24,4 @@ transporter.sendMail(mailOptions, function(error, info){
 });
 
 //works! turn on "Åtkomst för mindre säkra appar" from account settings 
+//test
