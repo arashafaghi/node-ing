@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arashafaghi/node-ing/issues"
   },
-  "homepage": "https://github.com/arashafaghi/node-ing#readme"
+  "homepage": "https://github.com/arashafaghi/node-ing#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.7"
+  }
 }
